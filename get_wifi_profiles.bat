@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 
-set "WebhookURL=https://eo82pdqi0ie7vpl.m.pipedream.net"
+set "WebhookURL=enteryourwebhookurlhere"
 set "ProfileDataFile=%TEMP%\profile_data.txt"
 
 REM Step 1: Get device IP address (currently not working)
